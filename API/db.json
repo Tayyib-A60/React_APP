@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "title": "Football",
+      "description": "Chelsea v United",
+      "id": 1
+    },
+    {
+      "title": "Liverpool",
+      "description": "Liverpool vs Spurs",
+      "id": 2
+    },
+    {
+      "title": "Another Stream",
+      "description": "Something",
+      "id": 3
+    },
+    {
+      "title": "Nice Stream",
+      "description": "Fantastic",
+      "id": 4
+    },
+    {
+      "title": "Xputer",
+      "description": "Endear",
+      "id": 5
+    },
+    {
+      "title": "rESPONSE",
+      "description": "rEDUCER",
+      "id": 6
+    },
+    {
+      "title": "New Stream",
+      "description": "Description of new Streamhdhdhd",
+      "userId": "118411608871846268437",
+      "id": 7
+    }
+  ]
+}
